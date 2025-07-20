@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Portfolio
 
 🎉 **[Interested in learning all about full-stack Chrome Extension development? My latest course, Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js, is now live!](https://fullstackextensions.com/?ref=github)** 🎉
